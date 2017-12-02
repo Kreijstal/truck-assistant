@@ -1,0 +1,1145 @@
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5, 18.78125], "timestamp": 1512055190963, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.53, 999.55], "timestamp": 1512055191368, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.140380859375, -0.103515625, -0.9306640625], "timestamp": 1512055191639, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [111.55457875457876, 106.6065934065934, -259.5443223443223], "timestamp": 1512055191909, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.645751953125, -5.47027587890625, -5.7373046875], "timestamp": 1512055192179, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.64, "timestamp": 1512055192448, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5, 18.78125], "timestamp": 1512055193056, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.52, 999.55], "timestamp": 1512055193461, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.260009765625, -0.041015625, -0.963134765625], "timestamp": 1512055193799, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [111.25470085470086, 107.95604395604396, -260.8937728937729], "timestamp": 1512055194069, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.76837158203125, -5.6304931640625, -3.021240234375], "timestamp": 1512055194339, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.8, "timestamp": 1512055194608, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5, 18.75], "timestamp": 1512055195216, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.55, 999.63], "timestamp": 1512055195621, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.156982421875, 0.025146484375, -0.959228515625], "timestamp": 1512055195892, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [111.7045177045177, 107.5062271062271, -260.14407814407815], "timestamp": 1512055196162, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.232666015625, -4.67681884765625, -5.2032470703125], "timestamp": 1512055196432, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.8, "timestamp": 1512055196701, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5, 18.90625], "timestamp": 1512055197308, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.53, 999.56], "timestamp": 1512055197714, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.142333984375, 0.0400390625, -0.9833984375], "timestamp": 1512055197984, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [111.7045177045177, 108.55579975579975, -259.6942612942613], "timestamp": 1512055198254, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.8370361328125, -5.76019287109375, -5.9814453125], "timestamp": 1512055198592, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.12, "timestamp": 1512055198861, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5, 18.9375], "timestamp": 1512055199468, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.55, 999.57], "timestamp": 1512055199941, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.148193359375, 0.0078125, -0.9833984375], "timestamp": 1512055200212, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [111.4046398046398, 106.45665445665445, -258.64468864468864], "timestamp": 1512055200482, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.84466552734375, -4.09698486328125, -4.23431396484375], "timestamp": 1512055200752, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96, "timestamp": 1512055201021, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5, 18.96875], "timestamp": 1512055201628, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.53, 999.63], "timestamp": 1512055202033, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.21826171875, 0.051025390625, -0.931640625], "timestamp": 1512055202304, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [111.4046398046398, 107.806105006105, -260.443956043956], "timestamp": 1512055202574, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [8.1939697265625, -9.69696044921875, 0.9613037109375], "timestamp": 1512055202844, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.12, "timestamp": 1512055203113, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5, 18.875], "timestamp": 1512055203721, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.53, 999.58], "timestamp": 1512055204126, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.092529296875, 0.020751953125, -0.98046875], "timestamp": 1512055204397, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [111.7045177045177, 109.9052503052503, -258.64468864468864], "timestamp": 1512055204667, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [8.75091552734375, -5.11932373046875, -7.04193115234375], "timestamp": 1512055204937, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.12, "timestamp": 1512055205206, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5, 18.71875], "timestamp": 1512055205813, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.55, 999.6], "timestamp": 1512055206218, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.08984375, -0.02197265625, -0.97900390625], "timestamp": 1512055206489, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [111.55457875457876, 107.65616605616606, -258.94456654456656], "timestamp": 1512055206759, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.7476806640625, -10.36834716796875, -8.697509765625], "timestamp": 1512055207029, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96, "timestamp": 1512055207298, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5, 18.9375], "timestamp": 1512055207906, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.53, 999.63], "timestamp": 1512055208311, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1171875, -0.024169921875, -0.96533203125], "timestamp": 1512055208582, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [112.3042735042735, 107.95604395604396, -260.2940170940171], "timestamp": 1512055208852, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.82830810546875, 3.021240234375, 0.93841552734375], "timestamp": 1512055209122, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96, "timestamp": 1512055209391, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5, 18.875], "timestamp": 1512055209998, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.53, 999.54], "timestamp": 1512055210403, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.12890625, 0.000732421875, -1.142333984375], "timestamp": 1512055210742, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [110.95482295482294, 107.05641025641025, -265.54188034188036], "timestamp": 1512055211012, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [11.60430908203125, -5.18798828125, -7.74383544921875], "timestamp": 1512055211282, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.1300000000000001, "timestamp": 1512055211551, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5, 18.625], "timestamp": 1512055212158, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.54, 999.62], "timestamp": 1512055212563, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.138916015625, -0.031494140625, -0.8681640625], "timestamp": 1512055212834, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [87.11452991452991, 104.35750915750916, -280.5357753357753], "timestamp": 1512055213104, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [19.2413330078125, -2.76947021484375, -11.49749755859375], "timestamp": 1512055213374, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.53, "timestamp": 1512055213643, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5, 18.125], "timestamp": 1512055214251, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.55, 999.62], "timestamp": 1512055214656, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1044921875, -0.06787109375, -1.0537109375], "timestamp": 1512055214927, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [119.35140415140415, 108.4058608058608, -257.44517704517705], "timestamp": 1512055215197, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [9.7503662109375, 8.38470458984375, -17.608642578125], "timestamp": 1512055215467, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.77, "timestamp": 1512055215736, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5, 17.875], "timestamp": 1512055216343, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.53, 999.56], "timestamp": 1512055216748, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.152587890625, 0.083984375, -0.95654296875], "timestamp": 1512055217019, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [124.29938949938949, 106.9064713064713, -254.74627594627594], "timestamp": 1512055217289, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [25.8026123046875, -13.13018798828125, -4.23431396484375], "timestamp": 1512055217559, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.29, "timestamp": 1512055217828, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5, 18.46875], "timestamp": 1512055218436, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.53, 999.64], "timestamp": 1512055218841, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [-0.04052734375, -0.01318359375, -1.049560546875], "timestamp": 1512055219112, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [112.15433455433455, 93.86178266178266, -270.0400488400488], "timestamp": 1512055219382, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [16.937255859375, -11.55853271484375, -12.0697021484375], "timestamp": 1512055219652, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.12, "timestamp": 1512055219921, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5, 18.6875], "timestamp": 1512055220528, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.53, 999.59], "timestamp": 1512055220934, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.08349609375, 0.04150390625, -0.820556640625], "timestamp": 1512055221204, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [117.4021978021978, 97.46031746031746, -261.4935286935287], "timestamp": 1512055221474, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [11.51275634765625, -1.76239013671875, 11.51275634765625], "timestamp": 1512055221744, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.12, "timestamp": 1512055222013, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.46875, 18.25], "timestamp": 1512055222621, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.54, 999.59], "timestamp": 1512055223026, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.046875, -0.0263671875, -0.9892578125], "timestamp": 1512055223297, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [114.25347985347985, 102.10842490842491, -262.0932844932845], "timestamp": 1512055223567, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.5928955078125, 6.37054443359375, 2.1209716796875], "timestamp": 1512055223837, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88, "timestamp": 1512055224106, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.46875, 18.5], "timestamp": 1512055224713, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.52, 999.59], "timestamp": 1512055225118, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.105712890625, 0.017578125, -0.9951171875], "timestamp": 1512055225389, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [111.25470085470086, 105.10720390720391, -266.74139194139195], "timestamp": 1512055225659, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.56182861328125, 0.396728515625, 4.35638427734375], "timestamp": 1512055225929, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.72, "timestamp": 1512055226198, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.46875, 18.65625], "timestamp": 1512055226806, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.53, 999.59], "timestamp": 1512055227211, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.086669921875, 0.08935546875, -1.006591796875], "timestamp": 1512055227482, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [110.95482295482294, 106.0068376068376, -266.59145299145297], "timestamp": 1512055227752, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.2724609375, -8.32366943359375, -13.51165771484375], "timestamp": 1512055228022, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88, "timestamp": 1512055228291, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.46875, 18.4375], "timestamp": 1512055228898, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.52, 999.58], "timestamp": 1512055229303, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.07080078125, 0.033935546875, -0.923828125], "timestamp": 1512055229574, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [111.7045177045177, 104.95726495726495, -267.3411477411477], "timestamp": 1512055229844, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.904052734375, 0.29754638671875, -9.31549072265625], "timestamp": 1512055230114, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88, "timestamp": 1512055230383, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.46875, 18.59375], "timestamp": 1512055230991, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.52, 999.58], "timestamp": 1512055231396, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.10009765625, -0.066650390625, -0.932373046875], "timestamp": 1512055231667, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [110.95482295482294, 104.65738705738706, -267.3411477411477], "timestamp": 1512055231937, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.75146484375, -5.889892578125, -1.30462646484375], "timestamp": 1512055232207, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.72, "timestamp": 1512055232476, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.46875, 18.6875], "timestamp": 1512055233083, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.52, 999.63], "timestamp": 1512055233488, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.187744140625, -0.0849609375, -1.013671875], "timestamp": 1512055233759, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [113.2039072039072, 105.70695970695971, -266.29157509157506], "timestamp": 1512055234029, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.26373291015625, -2.44903564453125, 0.579833984375], "timestamp": 1512055234299, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88, "timestamp": 1512055234568, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.46875, 18.53125], "timestamp": 1512055235176, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.51, 999.57], "timestamp": 1512055235648, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.115234375, -0.015869140625, -0.906494140625], "timestamp": 1512055235919, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [112.6041514041514, 106.15677655677655, -267.1912087912088], "timestamp": 1512055236189, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [9.77325439453125, -6.70623779296875, -4.44793701171875], "timestamp": 1512055236459, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.72, "timestamp": 1512055236728, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.46875, 18.46875], "timestamp": 1512055237336, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.5, 999.57], "timestamp": 1512055237741, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.117919921875, 0.04296875, -0.944091796875], "timestamp": 1512055238012, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [111.55457875457876, 104.807326007326, -265.8417582417582], "timestamp": 1512055238282, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.7525634765625, -6.4239501953125, -11.66534423828125], "timestamp": 1512055238552, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88, "timestamp": 1512055238821, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.46875, 18.40625], "timestamp": 1512055239428, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.52, 999.54], "timestamp": 1512055239833, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.0478515625, 0.079345703125, -1.010009765625], "timestamp": 1512055240104, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [110.804884004884, 105.10720390720391, -266.44151404151404], "timestamp": 1512055240374, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-0.67138671875, -15.899658203125, -6.927490234375], "timestamp": 1512055240644, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88, "timestamp": 1512055240913, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.4375, 18.5], "timestamp": 1512055241588, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.5, 999.56], "timestamp": 1512055241993, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.16748046875, -0.12841796875, -0.962890625], "timestamp": 1512055242264, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [110.95482295482294, 105.25714285714285, -267.0412698412698], "timestamp": 1512055242534, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.77435302734375, -14.9688720703125, -3.73077392578125], "timestamp": 1512055242804, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.72, "timestamp": 1512055243073, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.4375, 18.40625], "timestamp": 1512055243681, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.5, 999.59], "timestamp": 1512055244086, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.15185546875, -0.04638671875, -1.0048828125], "timestamp": 1512055244357, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [111.85445665445665, 106.15677655677655, -265.8417582417582], "timestamp": 1512055244627, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [1.7547607421875, -19.775390625, -6.87408447265625], "timestamp": 1512055244964, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88, "timestamp": 1512055245233, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.4375, 18.5], "timestamp": 1512055245909, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.5, 999.59], "timestamp": 1512055246314, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.13330078125, 0.000732421875, -0.91796875], "timestamp": 1512055246584, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [110.95482295482294, 105.25714285714285, -266.29157509157506], "timestamp": 1512055246854, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-3.509521484375, -10.64300537109375, -3.31878662109375], "timestamp": 1512055247124, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.8, "timestamp": 1512055247393, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.4375, 18.5625], "timestamp": 1512055248068, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.49, 999.53], "timestamp": 1512055248474, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.089111328125, -0.074951171875, -1.017578125], "timestamp": 1512055248812, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [109.45543345543345, 105.55702075702075, -271.9892551892552], "timestamp": 1512055249082, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-13.28277587890625, -23.01025390625, 10.42938232421875], "timestamp": 1512055249352, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.64, "timestamp": 1512055249621, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.4375, 18.46875], "timestamp": 1512055250229, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.49, 999.54], "timestamp": 1512055250633, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.14501953125, 0.1025390625, -1.03271484375], "timestamp": 1512055250972, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [94.31159951159951, 107.05641025641025, -279.33626373626373], "timestamp": 1512055251309, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [12.6495361328125, -7.51495361328125, 5.05828857421875], "timestamp": 1512055251579, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96, "timestamp": 1512055251848, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.4375, 18.90625], "timestamp": 1512055252456, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.49, 999.59], "timestamp": 1512055252861, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.12646484375, 0.10791015625, -1.005126953125], "timestamp": 1512055253132, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [96.26080586080586, 106.15677655677655, -285.3338217338217], "timestamp": 1512055253402, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-12.4053955078125, 8.76617431640625, -4.84466552734375], "timestamp": 1512055253672, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.1300000000000001, "timestamp": 1512055253941, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.71875], "timestamp": 1512055254548, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.49, 999.62], "timestamp": 1512055254954, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1416015625, 0.0205078125, -0.892578125], "timestamp": 1512055255224, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [97.31037851037851, 103.3079365079365, -276.78730158730156], "timestamp": 1512055255494, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [17.9595947265625, -9.2010498046875, 4.78363037109375], "timestamp": 1512055255764, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.29, "timestamp": 1512055256034, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.71875], "timestamp": 1512055256641, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.48, 999.62], "timestamp": 1512055257046, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [-0.00390625, -0.086181640625, -0.93359375], "timestamp": 1512055257317, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [98.65982905982905, 102.85811965811965, -270.7897435897436], "timestamp": 1512055257587, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-1.7852783203125, -3.7078857421875, -25.67291259765625], "timestamp": 1512055257857, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.45, "timestamp": 1512055258126, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.96875], "timestamp": 1512055258733, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.48, 999.61], "timestamp": 1512055259139, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.0771484375, 0.019287109375, -0.754150390625], "timestamp": 1512055259409, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [107.05641025641025, 103.9076923076923, -263.1428571428571], "timestamp": 1512055259679, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [18.7225341796875, -13.1683349609375, -5.40924072265625], "timestamp": 1512055259949, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.97, "timestamp": 1512055260218, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 19.125], "timestamp": 1512055260826, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.47, 999.64], "timestamp": 1512055261231, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [-0.09814453125, -0.1630859375, -0.897216796875], "timestamp": 1512055261502, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [110.5050061050061, 98.06007326007325, -247.54920634920634], "timestamp": 1512055261772, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [60.089111328125, 7.53021240234375, 9.2315673828125], "timestamp": 1512055262042, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96, "timestamp": 1512055262311, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 19.4375], "timestamp": 1512055262986, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.47, 999.63], "timestamp": 1512055263391, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.0380859375, 0.1083984375, -0.354736328125], "timestamp": 1512055263662, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [116.80244200244199, 111.25470085470086, -242.75115995115993], "timestamp": 1512055263932, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [1.46484375, -45.40252685546875, -27.68707275390625], "timestamp": 1512055264202, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.28, "timestamp": 1512055264471, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.90625], "timestamp": 1512055265078, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.46, 999.61], "timestamp": 1512055265484, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1669921875, 0.1123046875, -0.790283203125], "timestamp": 1512055265754, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [119.05152625152624, 109.45543345543345, -259.2444444444444], "timestamp": 1512055266024, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [1.88446044921875, -2.99072265625, 4.0283203125], "timestamp": 1512055266294, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.1300000000000001, "timestamp": 1512055266563, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.6875], "timestamp": 1512055267171, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.47, 999.64], "timestamp": 1512055267576, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.20556640625, 0.018310546875, -1.16650390625], "timestamp": 1512055267847, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [110.804884004884, 100.9089133089133, -254.74627594627594], "timestamp": 1512055268117, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.67681884765625, 5.096435546875, -9.94873046875], "timestamp": 1512055268387, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.29, "timestamp": 1512055268656, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.875], "timestamp": 1512055269264, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.45, 999.6], "timestamp": 1512055269669, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.16064453125, 0.01513671875, -1.010986328125], "timestamp": 1512055269939, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [99.85934065934066, 101.95848595848595, -264.7921855921856], "timestamp": 1512055270209, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.7596435546875, -26.0467529296875, -1.56402587890625], "timestamp": 1512055270479, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.1300000000000001, "timestamp": 1512055270748, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.65625], "timestamp": 1512055271356, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.45, 999.62], "timestamp": 1512055271761, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.056640625, -0.031494140625, -1.12841796875], "timestamp": 1512055272032, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [105.55702075702075, 110.804884004884, -231.95555555555555], "timestamp": 1512055272302, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [2.7923583984375, -16.27349853515625, -11.016845703125], "timestamp": 1512055272572, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.44, "timestamp": 1512055272841, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.375, 18.90625], "timestamp": 1512055273449, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.45, 999.6], "timestamp": 1512055273854, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.118896484375, -0.032958984375, -1.107666015625], "timestamp": 1512055274124, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [113.803663003663, 123.84957264957265, -220.4102564102564], "timestamp": 1512055274394, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.11114501953125, -12.054443359375, -12.939453125], "timestamp": 1512055274664, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.05, "timestamp": 1512055274933, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.375, 18.84375], "timestamp": 1512055275541, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.45, 999.56], "timestamp": 1512055275946, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.300537109375, 0.1318359375, -1.00732421875], "timestamp": 1512055276217, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [116.35262515262515, 125.34896214896214, -229.1067155067155], "timestamp": 1512055276487, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-5.18035888671875, -1.35040283203125, -12.2222900390625], "timestamp": 1512055276757, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.04, "timestamp": 1512055277026, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.375, 18.59375], "timestamp": 1512055277769, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.45, 999.59], "timestamp": 1512055278174, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.041015625, 0.076904296875, -0.978271484375], "timestamp": 1512055278444, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [113.803663003663, 124.59926739926739, -254.29645909645907], "timestamp": 1512055278714, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.12750244140625, 5.25665283203125, -6.1492919921875], "timestamp": 1512055278984, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 33.22, "timestamp": 1512055279254, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.375, 19.125], "timestamp": 1512055279861, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.44, 999.62], "timestamp": 1512055280266, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.02001953125, 0.005126953125, -0.984130859375], "timestamp": 1512055280537, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [121.00073260073259, 121.45054945054945, -243.95067155067153], "timestamp": 1512055280807, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.66375732421875, -8.758544921875, -5.85174560546875], "timestamp": 1512055281077, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 14.88, "timestamp": 1512055281346, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.375, 18.6875], "timestamp": 1512055281954, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.45, 999.59], "timestamp": 1512055282359, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.13818359375, -0.063232421875, -0.997802734375], "timestamp": 1512055282629, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [114.7032967032967, 122.65006105006104, -262.69304029304027], "timestamp": 1512055282899, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.03485107421875, -8.01849365234375, -10.91766357421875], "timestamp": 1512055283169, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 14.88, "timestamp": 1512055283438, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.375, 18.75], "timestamp": 1512055284046, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.45, 999.61], "timestamp": 1512055284451, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.002197265625, -0.0927734375, -0.925048828125], "timestamp": 1512055284722, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [114.55335775335774, 121.75042735042734, -263.592673992674], "timestamp": 1512055284992, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.823974609375, -15.57159423828125, -3.79180908203125], "timestamp": 1512055285262, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 14.88, "timestamp": 1512055285531, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.375, 18.6875], "timestamp": 1512055286139, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.44, 999.59], "timestamp": 1512055286544, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [-0.000244140625, -0.08984375, -0.898193359375], "timestamp": 1512055286814, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [115.75286935286935, 122.35018315018314, -263.2927960927961], "timestamp": 1512055287084, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [8.3770751953125, -8.3160400390625, -8.6822509765625], "timestamp": 1512055287354, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 14.88, "timestamp": 1512055287624, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.375, 18.75], "timestamp": 1512055288231, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.44, 999.56], "timestamp": 1512055288636, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.086181640625, -0.001220703125, -0.977783203125], "timestamp": 1512055288907, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [118.9015873015873, 126.6984126984127, -269.44029304029306], "timestamp": 1512055289177, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [1.5716552734375, -12.42828369140625, -9.86480712890625], "timestamp": 1512055289515, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 14.88, "timestamp": 1512055289784, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.375, 18.84375], "timestamp": 1512055290391, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.44, 999.59], "timestamp": 1512055290796, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.095947265625, 0.059326171875, -1.0078125], "timestamp": 1512055291067, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [117.25225885225885, 122.35018315018314, -264.7921855921856], "timestamp": 1512055291337, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.25177001953125, -16.05987548828125, -3.08990478515625], "timestamp": 1512055291607, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 14.88, "timestamp": 1512055291876, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.375, 18.84375], "timestamp": 1512055292484, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.44, 999.58], "timestamp": 1512055292889, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.0546875, 0.084228515625, -1.0], "timestamp": 1512055293159, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [116.2026862026862, 122.65006105006104, -265.3919413919414], "timestamp": 1512055293497, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-0.1220703125, -8.36181640625, -4.11224365234375], "timestamp": 1512055293767, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 15.280000000000001, "timestamp": 1512055294036, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.875], "timestamp": 1512055294711, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.45, 999.65], "timestamp": 1512055295116, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.066650390625, -0.0908203125, -0.924560546875], "timestamp": 1512055295387, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [114.4034188034188, 123.3997557997558, -262.69304029304027], "timestamp": 1512055295657, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.36346435546875, 4.29534912109375, -1.89208984375], "timestamp": 1512055295927, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 15.280000000000001, "timestamp": 1512055296196, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.375, 18.59375], "timestamp": 1512055296804, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.43, 999.56], "timestamp": 1512055297209, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.161865234375, 0.047119140625, -1.165283203125], "timestamp": 1512055297479, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [115.45299145299145, 121.9003663003663, -260.8937728937729], "timestamp": 1512055297749, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-16.51763916015625, 22.247314453125, -2.38037109375], "timestamp": 1512055298019, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 15.84, "timestamp": 1512055298289, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.375, 18.96875], "timestamp": 1512055298896, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.44, 999.6], "timestamp": 1512055299436, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.072509765625, -0.008056640625, -0.952880859375], "timestamp": 1512055299707, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [115.45299145299145, 121.9003663003663, -260.8937728937729], "timestamp": 1512055299977, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [1.57928466796875, -14.0838623046875, -6.37054443359375], "timestamp": 1512055300247, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 15.68, "timestamp": 1512055300516, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.375, 18.6875], "timestamp": 1512055301124, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.44, 999.6], "timestamp": 1512055301529, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.05712890625, -0.02392578125, -0.987060546875], "timestamp": 1512055301799, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [114.7032967032967, 123.3997557997558, -261.9433455433455], "timestamp": 1512055302070, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-4.058837890625, 11.55853271484375, -2.03704833984375], "timestamp": 1512055302340, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 15.84, "timestamp": 1512055302609, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.375, 18.75], "timestamp": 1512055303216, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.43, 999.6], "timestamp": 1512055303621, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.02099609375, -0.103759765625, -0.929931640625], "timestamp": 1512055303892, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [114.25347985347985, 122.5001221001221, -263.1428571428571], "timestamp": 1512055304162, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.34112548828125, -4.150390625, -8.46099853515625], "timestamp": 1512055304432, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 16.080000000000002, "timestamp": 1512055304701, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.375, 16.8125], "timestamp": 1512055305309, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.45, 999.64], "timestamp": 1512055305714, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.19384765625, -0.089599609375, -0.942138671875], "timestamp": 1512055305985, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [115.15311355311354, 123.6996336996337, -263.74261294261294], "timestamp": 1512055306254, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [1.9989013671875, -9.34600830078125, -3.47900390625], "timestamp": 1512055306525, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 8.85, "timestamp": 1512055306794, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.375, 18.96875], "timestamp": 1512055307401, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.44, 999.61], "timestamp": 1512055307806, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.069091796875, 0.103271484375, -0.9609375], "timestamp": 1512055308077, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [112.15433455433455, 121.00073260073259, -243.2009768009768], "timestamp": 1512055308347, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [1.02996826171875, -14.129638671875, -3.6468505859375], "timestamp": 1512055308684, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 9.01, "timestamp": 1512055308954, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 19.0], "timestamp": 1512055309561, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.43, 999.6], "timestamp": 1512055309966, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.282958984375, 0.005859375, -0.924560546875], "timestamp": 1512055310237, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [112.3042735042735, 121.6004884004884, -244.1006105006105], "timestamp": 1512055310507, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [10.35308837890625, -2.532958984375, -8.3770751953125], "timestamp": 1512055310777, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 8.85, "timestamp": 1512055311046, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.84375], "timestamp": 1512055311654, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.43, 999.56], "timestamp": 1512055312126, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.094482421875, 0.027587890625, -0.964599609375], "timestamp": 1512055312397, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [108.1059829059829, 122.8, -245.89987789987788], "timestamp": 1512055312667, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [11.077880859375, 1.65557861328125, -4.66156005859375], "timestamp": 1512055312937, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 12.55, "timestamp": 1512055313206, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.59375], "timestamp": 1512055313814, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.44, 999.59], "timestamp": 1512055314219, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.052978515625, -0.015625, -0.98095703125], "timestamp": 1512055314490, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [122.2002442002442, 121.9003663003663, -243.05103785103785], "timestamp": 1512055314760, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.579833984375, -15.594482421875, -6.9732666015625], "timestamp": 1512055315030, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 12.870000000000001, "timestamp": 1512055315299, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.84375], "timestamp": 1512055315906, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.43, 999.6], "timestamp": 1512055316311, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.09375, 0.02294921875, -0.97509765625], "timestamp": 1512055316582, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [115.6029304029304, 119.65128205128205, -263.592673992674], "timestamp": 1512055316852, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [1.62506103515625, -16.448974609375, -8.3465576171875], "timestamp": 1512055317122, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 12.870000000000001, "timestamp": 1512055317391, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.71875], "timestamp": 1512055317999, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.44, 999.6], "timestamp": 1512055318404, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.080078125, -0.06298828125, -0.939697265625], "timestamp": 1512055318675, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [115.15311355311354, 121.15067155067155, -262.69304029304027], "timestamp": 1512055318945, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [10.162353515625, -5.523681640625, -4.7149658203125], "timestamp": 1512055319215, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 95.60000000000001, "timestamp": 1512055319551, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.59375], "timestamp": 1512055320159, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.43, 999.57], "timestamp": 1512055320564, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.07568359375, 0.0302734375, -0.933837890625], "timestamp": 1512055320835, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [119.95115995115995, 129.99706959706958, -252.1973137973138], "timestamp": 1512055321105, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [10.0860595703125, -4.98199462890625, -6.14166259765625], "timestamp": 1512055321375, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 94.64, "timestamp": 1512055321644, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.8125], "timestamp": 1512055322251, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.43, 999.58], "timestamp": 1512055322656, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.06103515625, -0.0146484375, -0.91650390625], "timestamp": 1512055322927, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [121.6004884004884, 131.04664224664225, -251.44761904761904], "timestamp": 1512055323197, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [9.37652587890625, -7.1563720703125, -4.2572021484375], "timestamp": 1512055323467, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 93.96000000000001, "timestamp": 1512055323736, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.96875], "timestamp": 1512055324344, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.43, 999.56], "timestamp": 1512055324749, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.25537109375, -0.04833984375, -0.91943359375], "timestamp": 1512055325020, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [119.5013431013431, 129.99706959706958, -251.89743589743588], "timestamp": 1512055325357, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.62286376953125, -0.91552734375, 0.946044921875], "timestamp": 1512055325627, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 93.8, "timestamp": 1512055325896, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.6875], "timestamp": 1512055326504, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.45, 999.63], "timestamp": 1512055326909, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.138916015625, 0.05224609375, -1.0234375], "timestamp": 1512055327180, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [120.85079365079365, 130.14700854700854, -250.24810744810745], "timestamp": 1512055327450, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [17.242431640625, -14.892578125, -7.50732421875], "timestamp": 1512055327720, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 981.12, "timestamp": 1512055327989, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.4375, 16.84375], "timestamp": 1512055328596, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.44, 999.91], "timestamp": 1512055329001, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.14892578125, 0.027099609375, -0.94775390625], "timestamp": 1512055329272, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [121.15067155067155, 119.05152625152624, -237.8031746031746], "timestamp": 1512055329542, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [8.9874267578125, -4.05120849609375, -8.78143310546875], "timestamp": 1512055329812, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1054.72, "timestamp": 1512055330081, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.46875, 16.96875], "timestamp": 1512055330689, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.44, 999.89], "timestamp": 1512055331094, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.05419921875, -0.05908203125, -0.927490234375], "timestamp": 1512055331365, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [120.25103785103785, 120.40097680097679, -239.75238095238095], "timestamp": 1512055331635, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.9307861328125, -13.5345458984375, -4.28009033203125], "timestamp": 1512055331905, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1052.8, "timestamp": 1512055332174, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5, 17.0], "timestamp": 1512055332781, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.45, 999.92], "timestamp": 1512055333186, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.204345703125, -0.037841796875, -0.9951171875], "timestamp": 1512055333457, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [122.05030525030524, 119.2014652014652, -239.45250305250303], "timestamp": 1512055333727, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.77655029296875, -10.55908203125, -8.76617431640625], "timestamp": 1512055333997, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1051.2, "timestamp": 1512055334266, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5625, 16.96875], "timestamp": 1512055334874, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.47, 999.91], "timestamp": 1512055335279, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.16650390625, 0.048095703125, -0.94384765625], "timestamp": 1512055335550, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [121.15067155067155, 119.801221001221, -238.55286935286935], "timestamp": 1512055335820, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [8.36181640625, -7.2174072265625, -7.01904296875], "timestamp": 1512055336090, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1051.2, "timestamp": 1512055336359, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.59375, 17.1875], "timestamp": 1512055336966, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.46, 999.92], "timestamp": 1512055337439, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.129150390625, 0.026611328125, -0.949462890625], "timestamp": 1512055337710, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [121.15067155067155, 119.801221001221, -238.85274725274724], "timestamp": 1512055337980, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [8.270263671875, 0.57220458984375, 1.70135498046875], "timestamp": 1512055338250, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1050.88, "timestamp": 1512055338519, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.625, 17.125], "timestamp": 1512055339126, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.48, 999.88], "timestamp": 1512055339531, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.071044921875, 0.017822265625, -0.95458984375], "timestamp": 1512055339802, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [121.00073260073259, 119.2014652014652, -237.65323565323564], "timestamp": 1512055340072, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [9.27734375, -5.7373046875, -7.30133056640625], "timestamp": 1512055340342, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1049.92, "timestamp": 1512055340611, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.65625, 17.4375], "timestamp": 1512055341219, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.48, 999.91], "timestamp": 1512055341624, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.0517578125, -0.038330078125, -0.885986328125], "timestamp": 1512055341895, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [122.94993894993894, 121.15067155067155, -238.25299145299144], "timestamp": 1512055342165, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.50079345703125, 2.79998779296875, 0.92315673828125], "timestamp": 1512055342435, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1049.6, "timestamp": 1512055342704, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.6875, 17.4375], "timestamp": 1512055343311, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.49, 999.84], "timestamp": 1512055343716, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.140380859375, -0.106201171875, -0.987060546875], "timestamp": 1512055343987, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [122.35018315018314, 119.65128205128205, -238.4029304029304], "timestamp": 1512055344257, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.28607177734375, -8.88824462890625, -7.56072998046875], "timestamp": 1512055344527, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1048.64, "timestamp": 1512055344796, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.71875, 17.40625], "timestamp": 1512055345404, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.5, 999.95], "timestamp": 1512055345809, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.0234375, -0.029052734375, -0.976318359375], "timestamp": 1512055346080, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [121.9003663003663, 120.1010989010989, -239.3025641025641], "timestamp": 1512055346350, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.23486328125, -9.98687744140625, -10.68115234375], "timestamp": 1512055346620, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1048.96, "timestamp": 1512055346889, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.75, 17.59375], "timestamp": 1512055347496, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.51, 999.93], "timestamp": 1512055347901, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.09765625, -0.0185546875, -0.923583984375], "timestamp": 1512055348172, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [120.55091575091575, 121.00073260073259, -239.15262515262515], "timestamp": 1512055348442, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.1798095703125, -1.80816650390625, 0.78582763671875], "timestamp": 1512055348712, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1048.32, "timestamp": 1512055348981, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.78125, 17.59375], "timestamp": 1512055349589, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.51, 999.89], "timestamp": 1512055349994, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.054931640625, -0.000244140625, -1.005615234375], "timestamp": 1512055350265, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [121.3006105006105, 119.95115995115995, -238.10305250305248], "timestamp": 1512055350535, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [11.22283935546875, -4.35638427734375, -8.46099853515625], "timestamp": 1512055350805, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1048.64, "timestamp": 1512055351074, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.78125, 17.625], "timestamp": 1512055351681, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.52, 999.97], "timestamp": 1512055352086, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.060546875, -0.0419921875, -1.001220703125], "timestamp": 1512055352357, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [121.3006105006105, 120.70085470085469, -239.15262515262515], "timestamp": 1512055352627, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.180908203125, -12.33673095703125, -9.6588134765625], "timestamp": 1512055352897, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 19.28, "timestamp": 1512055353166, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.8125, 19.34375], "timestamp": 1512055353774, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.54, 999.7], "timestamp": 1512055354179, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.072509765625, -0.216796875, -0.8388671875], "timestamp": 1512055354450, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [115.75286935286935, 120.85079365079365, -264.7921855921856], "timestamp": 1512055354720, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [16.387939453125, -13.7481689453125, -6.67572021484375], "timestamp": 1512055354990, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.1300000000000001, "timestamp": 1512055355259, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.78125, 19.9375], "timestamp": 1512055355866, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.53, 999.61], "timestamp": 1512055356271, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.0849609375, -0.047119140625, -0.77978515625], "timestamp": 1512055356610, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [121.45054945054945, 107.95604395604396, -264.7921855921856], "timestamp": 1512055356880, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [20.83587646484375, -28.19061279296875, -33.11920166015625], "timestamp": 1512055357150, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.29, "timestamp": 1512055357419, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.75, 20.0625], "timestamp": 1512055358026, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.53, 999.54], "timestamp": 1512055358431, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.06591796875, 0.01318359375, -0.849609375], "timestamp": 1512055358702, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [115.15311355311354, 99.7094017094017, -266.74139194139195], "timestamp": 1512055358972, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-0.75531005859375, -20.27130126953125, -50.77362060546875], "timestamp": 1512055359242, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.1300000000000001, "timestamp": 1512055359511, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.75, 19.96875], "timestamp": 1512055360119, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.55, 999.58], "timestamp": 1512055360524, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.089111328125, -0.037841796875, -1.151123046875], "timestamp": 1512055360795, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [105.70695970695971, 94.31159951159951, -265.54188034188036], "timestamp": 1512055361065, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [1.22833251953125, 8.9874267578125, -17.5933837890625], "timestamp": 1512055361335, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.1300000000000001, "timestamp": 1512055361604, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.71875, 19.6875], "timestamp": 1512055362211, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.55, 999.6], "timestamp": 1512055362616, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.114013671875, 0.005859375, -0.949462890625], "timestamp": 1512055362887, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [106.9064713064713, 90.56312576312575, -276.4874236874237], "timestamp": 1512055363157, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [12.9547119140625, -6.2713623046875, 2.90679931640625], "timestamp": 1512055363427, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.97, "timestamp": 1512055363696, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.71875, 19.71875], "timestamp": 1512055364304, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.56, 999.62], "timestamp": 1512055364709, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.100830078125, 0.009033203125, -0.958251953125], "timestamp": 1512055364980, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [111.7045177045177, 83.51599511599511, -272.1391941391941], "timestamp": 1512055365250, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [22.69744873046875, -9.307861328125, -3.1890869140625], "timestamp": 1512055365520, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.04, "timestamp": 1512055365789, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.6875, 19.59375], "timestamp": 1512055366396, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.55, 999.63], "timestamp": 1512055366801, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.05712890625, 0.042236328125, -0.996826171875], "timestamp": 1512055367072, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [113.2039072039072, 98.50989010989011, -255.19609279609278], "timestamp": 1512055367343, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [20.4925537109375, -2.838134765625, 2.7618408203125], "timestamp": 1512055367612, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.04, "timestamp": 1512055367881, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.6875, 19.25], "timestamp": 1512055368489, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.56, 999.63], "timestamp": 1512055368894, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.107421875, -0.045166015625, -0.986572265625], "timestamp": 1512055369165, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [110.35506715506715, 95.36117216117216, -260.443956043956], "timestamp": 1512055369435, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [15.44952392578125, 2.22015380859375, 3.22723388671875], "timestamp": 1512055369705, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.37, "timestamp": 1512055369974, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.65625, 18.96875], "timestamp": 1512055370581, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.56, 999.7], "timestamp": 1512055370986, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1796875, 0.05322265625, -1.049072265625], "timestamp": 1512055371257, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [106.9064713064713, 95.2112332112332, -262.69304029304027], "timestamp": 1512055371527, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [2.3345947265625, -0.91552734375, -4.09698486328125], "timestamp": 1512055371797, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.45, "timestamp": 1512055372066, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.65625, 19.09375], "timestamp": 1512055372674, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.55, 999.6], "timestamp": 1512055373146, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.17431640625, 0.00439453125, -0.911865234375], "timestamp": 1512055373417, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [110.35506715506715, 98.95970695970695, -254.29645909645907], "timestamp": 1512055373687, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [1.73187255859375, -11.49749755859375, -12.8631591796875], "timestamp": 1512055373957, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.97, "timestamp": 1512055374226, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.65625, 19.3125], "timestamp": 1512055374834, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.56, 999.62], "timestamp": 1512055375239, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.149658203125, -0.038818359375, -1.123779296875], "timestamp": 1512055375510, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [124.14945054945055, 102.10842490842491, -239.75238095238095], "timestamp": 1512055375780, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [1.6937255859375, 0.0457763671875, -14.8468017578125], "timestamp": 1512055376050, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.1300000000000001, "timestamp": 1512055376319, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.625, 19.21875], "timestamp": 1512055376926, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.55, 999.62], "timestamp": 1512055377331, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.167236328125, 0.0, -1.062255859375], "timestamp": 1512055377602, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [118.0019536019536, 100.9089133089133, -282.9347985347985], "timestamp": 1512055377872, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [1.86920166015625, -3.11279296875, -4.34112548828125], "timestamp": 1512055378210, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.97, "timestamp": 1512055378479, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.625, 19.03125], "timestamp": 1512055379086, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.56, 999.6], "timestamp": 1512055379491, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.11181640625, 0.087890625, -0.88525390625], "timestamp": 1512055379762, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [110.804884004884, 92.66227106227106, -267.79096459096456], "timestamp": 1512055380032, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-1.0223388671875, 8.5906982421875, -4.608154296875], "timestamp": 1512055380302, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.44, "timestamp": 1512055380571, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.625, 18.75], "timestamp": 1512055381179, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.55, 999.64], "timestamp": 1512055381584, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.093994140625, -0.09521484375, -0.995849609375], "timestamp": 1512055381855, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [104.5074481074481, 95.810989010989, -270.18998778998775], "timestamp": 1512055382125, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-10.91766357421875, -8.23974609375, -13.7939453125], "timestamp": 1512055382395, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.97, "timestamp": 1512055382664, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.625, 18.78125], "timestamp": 1512055383271, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.56, 999.65], "timestamp": 1512055383676, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.114013671875, 0.03173828125, -0.756103515625], "timestamp": 1512055383947, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [103.9076923076923, 95.96092796092796, -270.7897435897436], "timestamp": 1512055384217, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.4849853515625, -11.13128662109375, -0.396728515625], "timestamp": 1512055384487, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.1300000000000001, "timestamp": 1512055384756, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.625, 19.0], "timestamp": 1512055385364, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.55, 999.64], "timestamp": 1512055385769, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1396484375, -0.033447265625, -1.058349609375], "timestamp": 1512055386040, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [99.85934065934066, 92.66227106227106, -275.43785103785103], "timestamp": 1512055386310, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.14495849609375, -20.14923095703125, -6.35528564453125], "timestamp": 1512055386580, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.05, "timestamp": 1512055386849, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.59375, 19.15625], "timestamp": 1512055387456, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.55, 999.63], "timestamp": 1512055387861, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.129638671875, -0.062255859375, -1.019775390625], "timestamp": 1512055388132, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [109.45543345543345, 88.76385836385836, -259.2444444444444], "timestamp": 1512055388402, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-4.4097900390625, 16.326904296875, -7.74383544921875], "timestamp": 1512055388672, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96, "timestamp": 1512055388941, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.59375, 19.0], "timestamp": 1512055389616, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.56, 999.71], "timestamp": 1512055390021, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.167724609375, -0.191162109375, -1.130859375], "timestamp": 1512055390292, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [110.65494505494505, 97.16043956043956, -256.24566544566545], "timestamp": 1512055390562, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.18798828125, 7.57598876953125, -10.71929931640625], "timestamp": 1512055390832, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.89, "timestamp": 1512055391101, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.59375, 19.1875], "timestamp": 1512055391709, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.55, 999.66], "timestamp": 1512055392114, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.138671875, 0.008056640625, -0.989990234375], "timestamp": 1512055392385, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [107.5062271062271, 93.56190476190476, -258.34481074481073], "timestamp": 1512055392655, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [9.09423828125, -1.71661376953125, 0.518798828125], "timestamp": 1512055392925, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.12, "timestamp": 1512055393194, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.59375, 19.28125], "timestamp": 1512055393801, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.56, 999.59], "timestamp": 1512055394206, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [-0.016845703125, -0.078369140625, -0.9228515625], "timestamp": 1512055394477, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [110.5050061050061, 90.11330891330891, -253.3968253968254], "timestamp": 1512055394747, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [15.0299072265625, -3.48663330078125, -11.34490966796875], "timestamp": 1512055395085, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.36, "timestamp": 1512055395354, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.59375, 20.1875], "timestamp": 1512055395961, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.53, 999.63], "timestamp": 1512055396366, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.107666015625, -0.080322265625, -1.001953125], "timestamp": 1512055396637, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [104.807326007326, 93.41196581196581, -266.1416361416361], "timestamp": 1512055396907, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [25.787353515625, 8.2550048828125, -35.34698486328125], "timestamp": 1512055397177, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96, "timestamp": 1512055397446, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5625, 20.4375], "timestamp": 1512055398054, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.54, 999.6], "timestamp": 1512055398459, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.138916015625, 0.04833984375, -0.95556640625], "timestamp": 1512055398730, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [88.16410256410256, 100.45909645909646, -280.5357753357753], "timestamp": 1512055399000, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.84356689453125, 4.638671875, -34.698486328125], "timestamp": 1512055399270, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.12, "timestamp": 1512055399539, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5625, 19.5625], "timestamp": 1512055400146, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.55, 999.64], "timestamp": 1512055400552, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.08984375, -0.00830078125, -1.021240234375], "timestamp": 1512055400823, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [89.96336996336996, 101.20879120879121, -283.68449328449327], "timestamp": 1512055401092, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [13.153076171875, -8.99505615234375, -19.6533203125], "timestamp": 1512055401362, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.37, "timestamp": 1512055401631, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5625, 18.46875], "timestamp": 1512055402239, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.53, 999.64], "timestamp": 1512055402644, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.051513671875, -0.012939453125, -0.866943359375], "timestamp": 1512055402915, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [101.20879120879121, 108.7057387057387, -269.590231990232], "timestamp": 1512055403185, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [10.68115234375, -3.65447998046875, -6.6680908203125], "timestamp": 1512055403455, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.21, "timestamp": 1512055403724, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5625, 18.96875], "timestamp": 1512055404331, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.56, 999.64], "timestamp": 1512055404804, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.146240234375, -0.047119140625, -1.07763671875], "timestamp": 1512055405075, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [113.2039072039072, 108.1059829059829, -261.4935286935287], "timestamp": 1512055405345, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [8.43048095703125, 6.0577392578125, -10.101318359375], "timestamp": 1512055405685, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.21, "timestamp": 1512055405951, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5625, 18.875], "timestamp": 1512055406559, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.54, 999.64], "timestamp": 1512055406964, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.127197265625, 0.06103515625, -0.790771484375], "timestamp": 1512055407235, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [105.40708180708181, 102.10842490842491, -264.94212454212453], "timestamp": 1512055407572, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-7.57598876953125, 9.21630859375, 3.28826904296875], "timestamp": 1512055407842, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.04, "timestamp": 1512055408112, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5625, 18.875], "timestamp": 1512055408719, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.54, 999.64], "timestamp": 1512055409124, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.0888671875, -0.062744140625, -1.071533203125], "timestamp": 1512055409395, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [89.21367521367522, 113.05396825396825, -284.73406593406594], "timestamp": 1512055409665, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [16.04461669921875, -9.9029541015625, -21.4691162109375], "timestamp": 1512055409935, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.29, "timestamp": 1512055410204, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5625, 17.96875], "timestamp": 1512055410811, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.54, 999.67], "timestamp": 1512055411217, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.20654296875, 0.00146484375, -0.756103515625], "timestamp": 1512055411487, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [105.55702075702075, 115.9028083028083, -269.590231990232], "timestamp": 1512055411757, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [9.7198486328125, -28.20587158203125, -23.00262451171875], "timestamp": 1512055412027, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.85, "timestamp": 1512055412296, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.53125, 18.375], "timestamp": 1512055412904, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.54, 999.66], "timestamp": 1512055413309, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.143310546875, -0.0859375, -1.0498046875], "timestamp": 1512055413580, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [126.0986568986569, 104.807326007326, -259.84420024420024], "timestamp": 1512055413850, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [1.9378662109375, -1.15966796875, -9.60540771484375], "timestamp": 1512055414120, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.29, "timestamp": 1512055414389, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.53125, 18.46875], "timestamp": 1512055414997, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.53, 999.6], "timestamp": 1512055415401, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.18408203125, -0.104736328125, -0.81494140625], "timestamp": 1512055415673, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [116.05274725274725, 93.56190476190476, -268.6905982905983], "timestamp": 1512055415942, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [8.41522216796875, -17.974853515625, -6.2103271484375], "timestamp": 1512055416212, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.97, "timestamp": 1512055416481, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.53125, 18.65625], "timestamp": 1512055417089, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.53, 999.63], "timestamp": 1512055417494, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.09716796875, 0.04931640625, -0.974365234375], "timestamp": 1512055417832, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [109.75531135531135, 91.6126984126984, -265.8417582417582], "timestamp": 1512055418102, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.80487060546875, -26.84783935546875, 19.3939208984375], "timestamp": 1512055418372, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.8, "timestamp": 1512055418642, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.53125, 18.375], "timestamp": 1512055419249, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.53, 999.64], "timestamp": 1512055419654, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1943359375, 0.03125, -0.89794921875], "timestamp": 1512055419925, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [118.0019536019536, 97.31037851037851, -261.34358974358975], "timestamp": 1512055420195, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [23.00262451171875, -10.833740234375, 19.47021484375], "timestamp": 1512055420465, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.36, "timestamp": 1512055420734, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5, 18.1875], "timestamp": 1512055421342, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.53, 999.64], "timestamp": 1512055421747, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.06884765625, -0.05078125, -0.978271484375], "timestamp": 1512055422017, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [111.55457875457876, 105.85689865689865, -264.04249084249085], "timestamp": 1512055422287, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.70623779296875, -7.10296630859375, -12.26043701171875], "timestamp": 1512055422557, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96, "timestamp": 1512055422826, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5, 18.84375], "timestamp": 1512055423434, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.52, 999.66], "timestamp": 1512055423839, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2373046875, -0.01416015625, -0.99755859375], "timestamp": 1512055424110, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [111.25470085470086, 104.05763125763126, -263.74261294261294], "timestamp": 1512055424380, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [9.3231201171875, -5.06591796875, -6.927490234375], "timestamp": 1512055424650, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96, "timestamp": 1512055424919, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5, 18.75], "timestamp": 1512055425527, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.52, 999.66], "timestamp": 1512055425932, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.18505859375, -0.150390625, -0.999755859375], "timestamp": 1512055426203, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [113.2039072039072, 105.25714285714285, -264.4923076923077], "timestamp": 1512055426472, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [11.39068603515625, -7.7056884765625, -4.92095947265625], "timestamp": 1512055426742, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.12, "timestamp": 1512055427011, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5, 18.59375], "timestamp": 1512055427619, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.52, 999.6], "timestamp": 1512055428024, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.124267578125, -0.030517578125, -0.964111328125], "timestamp": 1512055428295, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [110.95482295482294, 103.6078144078144, -263.89255189255186], "timestamp": 1512055428565, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [8.9111328125, 2.40325927734375, -9.48333740234375], "timestamp": 1512055428835, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96, "timestamp": 1512055429104, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5, 18.5], "timestamp": 1512055429712, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.51, 999.63], "timestamp": 1512055430117, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.11279296875, -0.14453125, -1.02392578125], "timestamp": 1512055430387, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [111.4046398046398, 105.70695970695971, -263.592673992674], "timestamp": 1512055430658, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.4119873046875, -12.42828369140625, -10.101318359375], "timestamp": 1512055430927, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.12, "timestamp": 1512055431196, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5, 18.53125], "timestamp": 1512055431804, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.52, 999.64], "timestamp": 1512055432209, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.034423828125, 0.007568359375, -0.96826171875], "timestamp": 1512055432480, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [112.45421245421245, 106.0068376068376, -268.3907203907204], "timestamp": 1512055432750, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.5694580078125, -4.4097900390625, 3.0059814453125], "timestamp": 1512055433020, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.12, "timestamp": 1512055433289, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5, 18.46875], "timestamp": 1512055433897, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.51, 999.66], "timestamp": 1512055434302, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.11083984375, -0.144775390625, -0.914306640625], "timestamp": 1512055434572, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [110.65494505494505, 104.65738705738706, -263.592673992674], "timestamp": 1512055434842, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [9.14764404296875, -7.02667236328125, -7.75909423828125], "timestamp": 1512055435112, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96, "timestamp": 1512055435381, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.46875, 18.71875], "timestamp": 1512055435989, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.5, 999.62], "timestamp": 1512055436394, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.123291015625, -0.0859375, -0.98681640625], "timestamp": 1512055436665, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [110.35506715506715, 103.6078144078144, -262.54310134310134], "timestamp": 1512055436935, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.01904296875, -9.2926025390625, -14.04571533203125], "timestamp": 1512055437205, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96, "timestamp": 1512055437474, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.46875, 18.53125], "timestamp": 1512055438082, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.5, 999.62], "timestamp": 1512055438487, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.049560546875, -0.041748046875, -1.00927734375], "timestamp": 1512055438757, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [110.804884004884, 105.10720390720391, -263.74261294261294], "timestamp": 1512055439027, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [8.85009765625, 0.67138671875, -6.9580078125], "timestamp": 1512055439297, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.12, "timestamp": 1512055439567, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.46875, 18.71875], "timestamp": 1512055440174, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.49, 999.63], "timestamp": 1512055440579, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.087890625, -0.098388671875, -0.9453125], "timestamp": 1512055440850, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [112.15433455433455, 104.2075702075702, -264.1924297924298], "timestamp": 1512055441120, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.95965576171875, -10.0555419921875, -13.93890380859375], "timestamp": 1512055441390, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.12, "timestamp": 1512055441659, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.46875, 18.53125], "timestamp": 1512055442267, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.5, 999.59], "timestamp": 1512055442672, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.202880859375, 0.076171875, -0.934814453125], "timestamp": 1512055443010, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [109.9052503052503, 106.0068376068376, -263.1428571428571], "timestamp": 1512055443280, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.9285888671875, 1.70135498046875, 1.77001953125], "timestamp": 1512055443550, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96, "timestamp": 1512055443819, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.46875, 18.71875], "timestamp": 1512055444427, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.49, 999.65], "timestamp": 1512055444832, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.11083984375, -0.06787109375, -0.941650390625], "timestamp": 1512055445103, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [112.3042735042735, 104.35750915750916, -262.9929181929182], "timestamp": 1512055445372, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.06103515625, -16.448974609375, -7.22503662109375], "timestamp": 1512055445642, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.12, "timestamp": 1512055445912, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.46875, 18.84375], "timestamp": 1512055446519, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.49, 999.61], "timestamp": 1512055446924, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1591796875, -0.073486328125, -1.01806640625], "timestamp": 1512055447195, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [111.4046398046398, 105.70695970695971, -262.54310134310134], "timestamp": 1512055447465, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.5340576171875, -5.0201416015625, -8.24737548828125], "timestamp": 1512055447735, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.72, "timestamp": 1512055448004, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.46875, 18.84375], "timestamp": 1512055448612, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.5, 999.62], "timestamp": 1512055449017, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2412109375, -0.034912109375, -0.860107421875], "timestamp": 1512055449287, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [110.35506715506715, 107.05641025641025, -268.99047619047616], "timestamp": 1512055449557, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [12.969970703125, -20.31707763671875, 4.29534912109375], "timestamp": 1512055449827, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.04, "timestamp": 1512055450097, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.46875, 18.78125], "timestamp": 1512055450704, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.48, 999.64], "timestamp": 1512055451109, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.190185546875, 0.00390625, -1.0478515625], "timestamp": 1512055451380, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [107.5062271062271, 106.75653235653235, -267.64102564102564], "timestamp": 1512055451650, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [9.2926025390625, -4.35638427734375, 4.29534912109375], "timestamp": 1512055451920, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.8, "timestamp": 1512055452189, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.46875, 18.59375], "timestamp": 1512055452932, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.49, 999.67], "timestamp": 1512055453337, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.158935546875, 0.005859375, -1.02197265625], "timestamp": 1512055453607, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [103.45787545787546, 107.65616605616606, -272.2891330891331], "timestamp": 1512055453877, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [9.552001953125, 6.93511962890625, 9.2315673828125], "timestamp": 1512055454147, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88, "timestamp": 1512055454416, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.4375, 18.65625], "timestamp": 1512055455024, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.48, 999.66], "timestamp": 1512055455429, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.236572265625, 0.063232421875, -0.998779296875], "timestamp": 1512055455700, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [95.06129426129426, 106.45665445665445, -280.0859584859585], "timestamp": 1512055455970, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [25.58135986328125, -9.0484619140625, 3.997802734375], "timestamp": 1512055456240, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.89, "timestamp": 1512055456509, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.4375, 19.0], "timestamp": 1512055457117, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.49, 999.65], "timestamp": 1512055457522, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.16552734375, -0.082763671875, -0.765380859375], "timestamp": 1512055457792, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [98.65982905982905, 105.25714285714285, -284.58412698412695], "timestamp": 1512055458062, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-2.8533935546875, -22.17864990234375, -11.3677978515625], "timestamp": 1512055458332, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.05, "timestamp": 1512055458601, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.4375, 18.96875], "timestamp": 1512055459209, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.48, 999.66], "timestamp": 1512055459614, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.12255859375, 0.066650390625, -0.817138671875], "timestamp": 1512055459885, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [98.95970695970695, 103.9076923076923, -279.33626373626373], "timestamp": 1512055460155, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.50189208984375, -6.9427490234375, -14.39666748046875], "timestamp": 1512055460425, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.6, "timestamp": 1512055460694, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.4375, 19.03125], "timestamp": 1512055461302, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.47, 999.66], "timestamp": 1512055461707, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.071533203125, -0.09765625, -0.908935546875], "timestamp": 1512055461977, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [96.4107448107448, 102.85811965811965, -276.6373626373626], "timestamp": 1512055462248, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [23.27728271484375, -0.8544921875, -14.6331787109375], "timestamp": 1512055462517, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.21, "timestamp": 1512055462786, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.4375, 18.96875], "timestamp": 1512055463529, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.46, 999.62], "timestamp": 1512055463934, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.136474609375, -0.060791015625, -1.039306640625], "timestamp": 1512055464205, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [106.0068376068376, 103.9076923076923, -264.94212454212453], "timestamp": 1512055464475, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-3.01361083984375, -16.54815673828125, -7.74383544921875], "timestamp": 1512055464745, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.89, "timestamp": 1512055465014, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.4375, 18.9375], "timestamp": 1512055465622, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.47, 999.64], "timestamp": 1512055466027, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.117431640625, 0.10693359375, -1.05615234375], "timestamp": 1512055466297, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [105.70695970695971, 98.21001221001221, -251.14774114774113], "timestamp": 1512055466567, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.05120849609375, -3.01361083984375, -4.21905517578125], "timestamp": 1512055466837, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.12, "timestamp": 1512055467106, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.4375, 19.09375], "timestamp": 1512055467714, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.46, 999.67], "timestamp": 1512055468119, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.077392578125, -0.045654296875, -0.76806640625], "timestamp": 1512055468390, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [106.75653235653235, 108.85567765567765, -238.7028083028083], "timestamp": 1512055468660, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [19.4091796875, -29.4036865234375, -10.4522705078125], "timestamp": 1512055468930, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.05, "timestamp": 1512055469199, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.4375, 19.125], "timestamp": 1512055469874, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.47, 999.7], "timestamp": 1512055470279, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [-0.001953125, 0.020751953125, -0.947265625], "timestamp": 1512055470550, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [113.5037851037851, 110.65494505494505, -246.94945054945055], "timestamp": 1512055470820, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [19.95086669921875, -15.8538818359375, -1.2664794921875], "timestamp": 1512055471090, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.1300000000000001, "timestamp": 1512055471359, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.4375, 18.78125], "timestamp": 1512055471967, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.46, 999.61], "timestamp": 1512055472372, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.133056640625, -0.06494140625, -1.2099609375], "timestamp": 1512055472642, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [112.45421245421245, 102.4083028083028, -258.64468864468864], "timestamp": 1512055472912, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [1.5869140625, 3.01361083984375, -6.2103271484375], "timestamp": 1512055473182, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.89, "timestamp": 1512055473452, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.90625], "timestamp": 1512055474127, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.45, 999.65], "timestamp": 1512055474532, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1875, 0.0107421875, -0.81884765625], "timestamp": 1512055474802, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [103.9076923076923, 104.95726495726495, -258.64468864468864], "timestamp": 1512055475072, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-4.241943359375, 1.04522705078125, -13.916015625], "timestamp": 1512055475342, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.1300000000000001, "timestamp": 1512055475611, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.71875], "timestamp": 1512055476219, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.46, 999.68], "timestamp": 1512055476624, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.065185546875, 0.022216796875, -0.927490234375], "timestamp": 1512055476895, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [102.85811965811965, 102.85811965811965, -250.84786324786324], "timestamp": 1512055477165, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [12.06207275390625, -1.50299072265625, -9.72747802734375], "timestamp": 1512055477502, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.05, "timestamp": 1512055477772, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.8125], "timestamp": 1512055478379, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.45, 999.69], "timestamp": 1512055478784, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.19384765625, 0.085205078125, -0.902587890625], "timestamp": 1512055479055, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [104.65738705738706, 116.05274725274725, -229.4065934065934], "timestamp": 1512055479325, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [22.8118896484375, -8.94927978515625, 10.223388671875], "timestamp": 1512055479595, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.2, "timestamp": 1512055479865, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.75], "timestamp": 1512055480472, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.45, 999.63], "timestamp": 1512055480877, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.13916015625, -0.0361328125, -1.093505859375], "timestamp": 1512055481148, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [106.0068376068376, 124.59926739926739, -225.65811965811966], "timestamp": 1512055481417, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [10.009765625, -7.6904296875, -2.1514892578125], "timestamp": 1512055481687, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.12, "timestamp": 1512055481957, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.8125], "timestamp": 1512055482564, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.44, 999.66], "timestamp": 1512055482969, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.109130859375, -0.0576171875, -0.95654296875], "timestamp": 1512055483240, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [111.7045177045177, 123.84957264957265, -254.29645909645907], "timestamp": 1512055483510, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [8.36181640625, -5.584716796875, -8.8653564453125], "timestamp": 1512055483780, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.21, "timestamp": 1512055484049, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.75], "timestamp": 1512055484724, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.44, 999.62], "timestamp": 1512055485129, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.088134765625, -0.08642578125, -0.912353515625], "timestamp": 1512055485400, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [111.4046398046398, 123.84957264957265, -255.19609279609278], "timestamp": 1512055485670, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [2.92205810546875, -13.67950439453125, -7.07244873046875], "timestamp": 1512055485940, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.05, "timestamp": 1512055486209, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.875], "timestamp": 1512055486817, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.43, 999.65], "timestamp": 1512055487289, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.25439453125, 0.0234375, -1.013916015625], "timestamp": 1512055487560, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [118.15189255189254, 127.89792429792429, -259.0945054945055], "timestamp": 1512055487830, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.4005126953125, -4.3182373046875, -10.90240478515625], "timestamp": 1512055488100, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.21, "timestamp": 1512055488369, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.75], "timestamp": 1512055488977, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.44, 999.61], "timestamp": 1512055489382, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.208984375, 0.155517578125, -0.984619140625], "timestamp": 1512055489652, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [113.2039072039072, 123.84957264957265, -255.64590964590963], "timestamp": 1512055489923, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [10.67352294921875, -2.2735595703125, -5.584716796875], "timestamp": 1512055490193, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.61, "timestamp": 1512055490462, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.75], "timestamp": 1512055491069, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.43, 999.61], "timestamp": 1512055491474, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.052978515625, 0.1806640625, -0.969482421875], "timestamp": 1512055491745, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [112.9040293040293, 123.3997557997558, -255.79584859584858], "timestamp": 1512055492015, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.57598876953125, -2.227783203125, -4.66156005859375], "timestamp": 1512055492285, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 66.0, "timestamp": 1512055492554, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.875], "timestamp": 1512055493162, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.44, 999.64], "timestamp": 1512055493567, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [-0.00439453125, 0.064453125, -0.98779296875], "timestamp": 1512055493838, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [109.6053724053724, 123.54969474969475, -264.4923076923077], "timestamp": 1512055494108, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.16400146484375, -0.946044921875, 1.52587890625], "timestamp": 1512055494377, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 68.56, "timestamp": 1512055494647, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.625], "timestamp": 1512055495254, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.44, 999.64], "timestamp": 1512055495659, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1015625, 0.00732421875, -0.977294921875], "timestamp": 1512055495930, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [109.0056166056166, 125.19902319902319, -262.9929181929182], "timestamp": 1512055496200, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.669189453125, 7.0648193359375, -1.9378662109375], "timestamp": 1512055496470, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 68.4, "timestamp": 1512055496739, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.71875], "timestamp": 1512055497347, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.45, 999.71], "timestamp": 1512055497752, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.081298828125, 0.15576171875, -1.008544921875], "timestamp": 1512055498023, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [109.6053724053724, 126.3985347985348, -266.59145299145297], "timestamp": 1512055498293, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [9.3841552734375, 4.17327880859375, -5.63812255859375], "timestamp": 1512055498562, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 68.72, "timestamp": 1512055498832, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.5], "timestamp": 1512055499439, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.44, 999.64], "timestamp": 1512055499844, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.2197265625, 0.207763671875, -0.970458984375], "timestamp": 1512055500115, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [109.75531135531135, 122.94993894993894, -266.44151404151404], "timestamp": 1512055500385, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.34710693359375, 5.98907470703125, -0.244140625], "timestamp": 1512055500655, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 68.88, "timestamp": 1512055500924, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.6875], "timestamp": 1512055501532, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.44, 999.66], "timestamp": 1512055501937, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.159423828125, 0.03662109375, -0.966064453125], "timestamp": 1512055502208, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [110.2051282051282, 124.74920634920635, -268.2407814407814], "timestamp": 1512055502478, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [9.4146728515625, -2.52532958984375, -4.1351318359375], "timestamp": 1512055502748, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 74.18, "timestamp": 1512055503017, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.71875], "timestamp": 1512055503624, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.44, 999.64], "timestamp": 1512055504029, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.18994140625, 0.035888671875, -0.955810546875], "timestamp": 1512055504300, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [108.55579975579975, 124.29938949938949, -264.1924297924298], "timestamp": 1512055504570, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [1.7547607421875, -0.06103515625, -4.7607421875], "timestamp": 1512055504840, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 198.64000000000001, "timestamp": 1512055505109, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.90625], "timestamp": 1512055505784, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.46, 999.67], "timestamp": 1512055506189, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.12158203125, -0.0537109375, -0.958740234375], "timestamp": 1512055506460, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [100.75897435897436, 124.29938949938949, -265.24200244200244], "timestamp": 1512055506730, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.5694580078125, 1.7242431640625, 0.6561279296875], "timestamp": 1512055507000, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 21954.56, "timestamp": 1512055507269, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.40625, 18.8125], "timestamp": 1512055507877, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.47, 999.7], "timestamp": 1512055508282, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.135986328125, -0.023193359375, -0.96875], "timestamp": 1512055508553, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [102.10842490842491, 123.84957264957265, -261.7934065934066], "timestamp": 1512055508823, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [8.209228515625, -5.615234375, -4.44793701171875], "timestamp": 1512055509093, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 22036.48, "timestamp": 1512055509362, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.4375, 18.75], "timestamp": 1512055509969, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.51, 999.71], "timestamp": 1512055510374, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.088134765625, -0.07568359375, -0.9921875], "timestamp": 1512055510645, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [103.15799755799756, 124.89914529914529, -262.0932844932845], "timestamp": 1512055510915, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.57000732421875, 4.37164306640625, 0.946044921875], "timestamp": 1512055511185, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 22046.72, "timestamp": 1512055511454, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.4375, 18.96875], "timestamp": 1512055512062, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.53, 999.72], "timestamp": 1512055512467, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.15966796875, 0.06787109375, -0.942138671875], "timestamp": 1512055512738, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [101.80854700854701, 126.3985347985348, -263.89255189255186], "timestamp": 1512055513008, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.8746337890625, -4.5318603515625, -4.89044189453125], "timestamp": 1512055513278, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 22067.2, "timestamp": 1512055513547, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.4375, 19.15625], "timestamp": 1512055514154, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.55, 999.71], "timestamp": 1512055514559, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.127197265625, -0.012939453125, -0.996826171875], "timestamp": 1512055514830, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [102.25836385836385, 127.59804639804639, -262.69304029304027], "timestamp": 1512055515100, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [8.453369140625, -5.30242919921875, -4.09698486328125], "timestamp": 1512055515370, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 22067.2, "timestamp": 1512055515639, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.4375, 19.03125], "timestamp": 1512055516247, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.57, 999.71], "timestamp": 1512055516719, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.191162109375, -0.03076171875, -0.990478515625], "timestamp": 1512055516990, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [103.75775335775336, 125.798778998779, -262.9929181929182], "timestamp": 1512055517260, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.53839111328125, 3.90625, -7.20977783203125], "timestamp": 1512055517530, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 22087.68, "timestamp": 1512055517800, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.46875, 18.6875], "timestamp": 1512055518407, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.58, 999.68], "timestamp": 1512055518812, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.080322265625, 0.07421875, -0.919189453125], "timestamp": 1512055519083, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [101.95848595848595, 125.19902319902319, -263.74261294261294], "timestamp": 1512055519353, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [1.48773193359375, -11.077880859375, -8.697509765625], "timestamp": 1512055519623, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 22097.920000000002, "timestamp": 1512055519892, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.46875, 18.96875], "timestamp": 1512055520499, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.61, 999.64], "timestamp": 1512055520904, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.201904296875, -0.06689453125, -0.924560546875], "timestamp": 1512055521175, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [102.25836385836385, 125.4989010989011, -262.9929181929182], "timestamp": 1512055521445, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.51605224609375, -0.95367431640625, 0.64849853515625], "timestamp": 1512055521715, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 22118.4, "timestamp": 1512055521984, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5, 18.90625], "timestamp": 1512055522592, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.62, 999.7], "timestamp": 1512055522997, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.19775390625, -0.010986328125, -0.906494140625], "timestamp": 1512055523268, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [101.95848595848595, 126.24859584859584, -262.69304029304027], "timestamp": 1512055523538, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [8.941650390625, -8.97216796875, -7.0953369140625], "timestamp": 1512055523808, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 22108.16, "timestamp": 1512055524077, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5, 19.03125], "timestamp": 1512055524684, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.64, 999.7], "timestamp": 1512055525089, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.149658203125, -0.09228515625, -0.968017578125], "timestamp": 1512055525360, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [102.10842490842491, 125.64884004884004, -261.19365079365076], "timestamp": 1512055525630, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [9.01031494140625, -5.34820556640625, -3.53240966796875], "timestamp": 1512055525900, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 22128.64, "timestamp": 1512055526169, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5, 18.96875], "timestamp": 1512055526777, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.66, 999.64], "timestamp": 1512055527182, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1708984375, 0.02099609375, -0.928466796875], "timestamp": 1512055527453, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [102.10842490842491, 126.3985347985348, -263.592673992674], "timestamp": 1512055527723, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.5460205078125, -12.07733154296875, -7.4615478515625], "timestamp": 1512055527993, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 22138.88, "timestamp": 1512055528262, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.53125, 18.96875], "timestamp": 1512055528869, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.67, 999.69], "timestamp": 1512055529274, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1875, -0.07568359375, -0.9658203125], "timestamp": 1512055529545, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [101.95848595848595, 126.24859584859584, -261.9433455433455], "timestamp": 1512055529815, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.6844482421875, -0.03814697265625, 2.49481201171875], "timestamp": 1512055530085, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 22138.88, "timestamp": 1512055530354, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.53125, 19.0], "timestamp": 1512055530962, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.69, 999.72], "timestamp": 1512055531367, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.19921875, 0.134765625, -0.994873046875], "timestamp": 1512055531638, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [101.95848595848595, 124.44932844932845, -262.39316239316236], "timestamp": 1512055531908, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.24029541015625, -8.97979736328125, -12.90130615234375], "timestamp": 1512055532178, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 22159.36, "timestamp": 1512055532447, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.53125, 18.8125], "timestamp": 1512055533054, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.7, 999.68], "timestamp": 1512055533459, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.142822265625, 0.03857421875, -0.942138671875], "timestamp": 1512055533730, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [101.95848595848595, 126.54847374847374, -263.2927960927961], "timestamp": 1512055534000, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.5225830078125, -2.5482177734375, -1.03759765625], "timestamp": 1512055534270, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 22169.600000000002, "timestamp": 1512055534539, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5625, 18.8125], "timestamp": 1512055535147, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.7, 999.68], "timestamp": 1512055535552, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.107421875, -0.036376953125, -0.88818359375], "timestamp": 1512055535823, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [99.7094017094017, 128.94749694749694, -265.54188034188036], "timestamp": 1512055536093, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.2174072265625, -2.62451171875, -4.6844482421875], "timestamp": 1512055536363, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 205.44, "timestamp": 1512055536632, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5625, 18.78125], "timestamp": 1512055537239, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.71, 999.68], "timestamp": 1512055537645, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.140625, -0.016357421875, -0.932861328125], "timestamp": 1512055537915, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [105.40708180708181, 124.29938949938949, -262.84297924297925], "timestamp": 1512055538185, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [10.29205322265625, -8.636474609375, -7.46917724609375], "timestamp": 1512055538455, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 3.21, "timestamp": 1512055538724, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5625, 18.78125], "timestamp": 1512055539332, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.69, 999.71], "timestamp": 1512055539737, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.093505859375, 0.06494140625, -0.96728515625], "timestamp": 1512055540008, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [113.803663003663, 118.9015873015873, -267.3411477411477], "timestamp": 1512055540278, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [6.70623779296875, -9.59014892578125, -5.74493408203125], "timestamp": 1512055540548, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.04, "timestamp": 1512055540817, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5625, 18.71875], "timestamp": 1512055541424, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.69, 999.71], "timestamp": 1512055541829, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.137939453125, 0.05810546875, -0.922119140625], "timestamp": 1512055542100, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [114.4034188034188, 111.25470085470086, -268.5406593406593], "timestamp": 1512055542370, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [1.2359619140625, 1.0223388671875, 1.2359619140625], "timestamp": 1512055542640, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.88, "timestamp": 1512055542909, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5625, 18.71875], "timestamp": 1512055543517, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.67, 999.7], "timestamp": 1512055543922, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.0849609375, 0.054443359375, -0.96142578125], "timestamp": 1512055544193, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [115.6029304029304, 108.85567765567765, -263.592673992674], "timestamp": 1512055544463, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [17.1356201171875, -9.84954833984375, -3.3416748046875], "timestamp": 1512055544733, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.29, "timestamp": 1512055545002, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.59375, 18.75], "timestamp": 1512055545609, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.68, 999.7], "timestamp": 1512055546082, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.192626953125, -0.09375, -0.94189453125], "timestamp": 1512055546353, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [118.45177045177044, 108.85567765567765, -261.7934065934066], "timestamp": 1512055546623, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [11.322021484375, 0.18310546875, -21.8963623046875], "timestamp": 1512055546893, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.1300000000000001, "timestamp": 1512055547162, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.59375, 18.75], "timestamp": 1512055547771, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.67, 999.71], "timestamp": 1512055548174, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.086669921875, -0.076416015625, -0.897705078125], "timestamp": 1512055548445, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [116.80244200244199, 100.45909645909646, -266.74139194139195], "timestamp": 1512055548715, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.3253173828125, -4.84466552734375, -19.04296875], "timestamp": 1512055548985, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.96, "timestamp": 1512055549254, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.59375, 18.75], "timestamp": 1512055549997, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.67, 999.67], "timestamp": 1512055550402, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.037841796875, 0.1083984375, -1.00732421875], "timestamp": 1512055550673, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [114.1035409035409, 100.15921855921856, -261.34358974358975], "timestamp": 1512055550943, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-6.134033203125, -0.95367431640625, -20.3094482421875], "timestamp": 1512055551213, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.21, "timestamp": 1512055551549, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.59375, 18.96875], "timestamp": 1512055552157, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.66, 999.62], "timestamp": 1512055552562, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.121826171875, 0.084716796875, -0.86328125], "timestamp": 1512055552833, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [113.2039072039072, 97.46031746031746, -270.7897435897436], "timestamp": 1512055553103, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.965087890625, -2.86102294921875, -10.0860595703125], "timestamp": 1512055553373, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.53, "timestamp": 1512055553709, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.59375, 18.96875], "timestamp": 1512055554317, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.67, 999.65], "timestamp": 1512055554722, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.093017578125, -0.095458984375, -1.037353515625], "timestamp": 1512055554993, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [108.85567765567765, 93.56190476190476, -260.7438339438339], "timestamp": 1512055555263, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.97271728515625, -6.79779052734375, -21.0723876953125], "timestamp": 1512055555533, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.21, "timestamp": 1512055555802, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.59375, 18.84375], "timestamp": 1512055556409, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.66, 999.72], "timestamp": 1512055556814, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.046630859375, 0.062744140625, -0.8701171875], "timestamp": 1512055557085, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [108.85567765567765, 94.61147741147741, -269.7401709401709], "timestamp": 1512055557355, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-0.3204345703125, 13.96942138671875, -9.36126708984375], "timestamp": 1512055557625, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.37, "timestamp": 1512055557894, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.59375, 18.90625], "timestamp": 1512055558502, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.65, 999.61], "timestamp": 1512055558907, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.10205078125, -0.010009765625, -0.849609375], "timestamp": 1512055559178, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [108.55579975579975, 91.01294261294261, -267.0412698412698], "timestamp": 1512055559448, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [11.71875, -14.68658447265625, -1.495361328125], "timestamp": 1512055559718, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.05, "timestamp": 1512055559987, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.59375, 18.9375], "timestamp": 1512055560594, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.66, 999.68], "timestamp": 1512055560999, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.041748046875, 0.02197265625, -0.8095703125], "timestamp": 1512055561270, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [108.55579975579975, 88.46398046398046, -282.18510378510376], "timestamp": 1512055561540, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [9.83428955078125, -17.17376708984375, -4.0130615234375], "timestamp": 1512055561810, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.97, "timestamp": 1512055562079, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.59375, 18.9375], "timestamp": 1512055562687, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.65, 999.65], "timestamp": 1512055563092, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.207275390625, 0.0029296875, -0.8955078125], "timestamp": 1512055563363, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [107.95604395604396, 82.31648351648352, -268.84053724053723], "timestamp": 1512055563633, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-10.88714599609375, -12.02392578125, -13.97705078125], "timestamp": 1512055563903, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.12, "timestamp": 1512055564172, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.59375, 19.15625], "timestamp": 1512055564779, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.65, 999.64], "timestamp": 1512055565184, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.180419921875, -0.0751953125, -0.96142578125], "timestamp": 1512055565455, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [110.804884004884, 91.16288156288157, -255.04615384615383], "timestamp": 1512055565725, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-1.68609619140625, -5.55419921875, -15.5792236328125], "timestamp": 1512055565995, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.04, "timestamp": 1512055566264, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.59375, 19.03125], "timestamp": 1512055566872, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.65, 999.63], "timestamp": 1512055567277, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.0458984375, -0.004638671875, -1.107421875], "timestamp": 1512055567548, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [108.7057387057387, 97.61025641025641, -260.593894993895], "timestamp": 1512055567818, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [9.857177734375, -0.83160400390625, -6.103515625], "timestamp": 1512055568088, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.2, "timestamp": 1512055568357, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.59375, 18.9375], "timestamp": 1512055568964, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.64, 999.66], "timestamp": 1512055569369, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.164794921875, -0.110595703125, -0.849609375], "timestamp": 1512055569640, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [106.0068376068376, 95.66105006105006, -264.4923076923077], "timestamp": 1512055569910, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [7.46917724609375, -5.02777099609375, -1.21307373046875], "timestamp": 1512055570180, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.37, "timestamp": 1512055570449, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.59375, 18.90625], "timestamp": 1512055571057, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.65, 999.61], "timestamp": 1512055571462, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.091064453125, 0.03759765625, -0.828857421875], "timestamp": 1512055571733, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [104.807326007326, 96.56068376068376, -266.1416361416361], "timestamp": 1512055572003, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [16.85333251953125, -14.42718505859375, -9.17816162109375], "timestamp": 1512055572273, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.45, "timestamp": 1512055572542, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.59375, 18.9375], "timestamp": 1512055573149, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.65, 999.63], "timestamp": 1512055573554, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.114501953125, 0.020751953125, -0.824462890625], "timestamp": 1512055573825, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [110.5050061050061, 99.4095238095238, -255.79584859584858], "timestamp": 1512055574095, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [4.0130615234375, -9.70458984375, 1.96075439453125], "timestamp": 1512055574365, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.04, "timestamp": 1512055574634, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.59375, 19.1875], "timestamp": 1512055575242, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.64, 999.67], "timestamp": 1512055575647, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.104248046875, 0.160400390625, -1.02197265625], "timestamp": 1512055575918, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [113.5037851037851, 97.76019536019535, -259.0945054945055], "timestamp": 1512055576188, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [12.176513671875, -11.10076904296875, 0.396728515625], "timestamp": 1512055576458, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.1300000000000001, "timestamp": 1512055576727, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5625, 18.75], "timestamp": 1512055577334, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.63, 999.62], "timestamp": 1512055577740, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1806640625, 0.064453125, -1.01953125], "timestamp": 1512055578010, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [124.44932844932845, 104.95726495726495, -249.04859584859585], "timestamp": 1512055578280, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [3.59344482421875, -23.9105224609375, -13.43536376953125], "timestamp": 1512055578550, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.05, "timestamp": 1512055578820, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5625, 18.96875], "timestamp": 1512055579427, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.64, 999.66], "timestamp": 1512055579832, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1357421875, -0.069091796875, -0.88427734375], "timestamp": 1512055580103, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [110.35506715506715, 91.01294261294261, -290.431746031746], "timestamp": 1512055580373, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [10.36834716796875, 5.07354736328125, -2.0294189453125], "timestamp": 1512055580643, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.97, "timestamp": 1512055580912, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5625, 18.96875], "timestamp": 1512055581519, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.64, 999.69], "timestamp": 1512055581924, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.1708984375, -0.079833984375, -1.053955078125], "timestamp": 1512055582195, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [108.55579975579975, 95.36117216117216, -268.99047619047616], "timestamp": 1512055582465, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-7.32421875, 8.06427001953125, -7.1258544921875], "timestamp": 1512055582735, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.21, "timestamp": 1512055583004, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5625, 18.78125], "timestamp": 1512055583612, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.63, 999.6], "timestamp": 1512055584017, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.036865234375, 0.016845703125, -0.941162109375], "timestamp": 1512055584288, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [104.5074481074481, 96.56068376068376, -272.589010989011], "timestamp": 1512055584558, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [13.4735107421875, -10.33782958984375, 3.3721923828125], "timestamp": 1512055584828, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.21, "timestamp": 1512055585097, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5625, 18.875], "timestamp": 1512055585772, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.63, 999.66], "timestamp": 1512055586177, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.09228515625, -0.1552734375, -0.906982421875], "timestamp": 1512055586448, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [103.45787545787546, 95.2112332112332, -271.2395604395604], "timestamp": 1512055586785, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [1.0986328125, -3.662109375, -12.7410888671875], "timestamp": 1512055587055, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.97, "timestamp": 1512055587324, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5625, 19.0], "timestamp": 1512055587932, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.63, 999.65], "timestamp": 1512055588337, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.068115234375, -0.121337890625, -1.07568359375], "timestamp": 1512055588608, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [102.25836385836385, 90.56312576312575, -274.08840048840045], "timestamp": 1512055588878, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [18.035888671875, -4.46319580078125, -10.528564453125], "timestamp": 1512055589148, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.12, "timestamp": 1512055589417, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5625, 19.09375], "timestamp": 1512055590024, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.63, 999.66], "timestamp": 1512055590430, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.166259765625, -0.05322265625, -0.887451171875], "timestamp": 1512055590700, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [99.1096459096459, 89.81343101343101, -276.4874236874237], "timestamp": 1512055590970, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [-5.3253173828125, -5.85174560546875, -11.61956787109375], "timestamp": 1512055591240, "sensorLocation": "trailer"}
+{"sensorType": "LIGHT", "valueLength": 1, "values": 1.04, "timestamp": 1512055591509, "sensorLocation": "trailer"}
+{"sensorType": "TEMPERATURE", "valueLength": 2, "values": [22.5625, 19.0625], "timestamp": 1512055592184, "sensorLocation": "trailer"}
+{"sensorType": "BAROMETER", "valueLength": 2, "values": [22.63, 999.66], "timestamp": 1512055592589, "sensorLocation": "trailer"}
+{"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.0654296875, -0.0205078125, -0.84814453125], "timestamp": 1512055592860, "sensorLocation": "trailer"}
+{"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [109.0056166056166, 87.26446886446887, -260.2940170940171], "timestamp": 1512055593130, "sensorLocation": "trailer"}
+{"sensorType": "GYROSCOPE", "valueLength": 3, "values": [0.48828125, -7.2174072265625, -6.8206787109375], "timestamp": 1512055593400, "sensorLocation": "trailer"}
