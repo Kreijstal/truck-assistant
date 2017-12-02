@@ -1209,5 +1209,4 @@
 {"sensorType": "ACCELEROMETER", "valueLength": 3, "values": [0.0732421875, -0.043701171875, -1.011474609375], "timestamp": 1512053311826, "sensorLocation": "trailer"},
 {"sensorType": "MAGNETOMETER", "valueLength": 3, "values": [111.55457875457876, 105.10720390720391, -259.84420024420024], "timestamp": 1512053312096, "sensorLocation": "trailer"},
 {"sensorType": "GYROSCOPE", "valueLength": 3, "values": [5.89752197265625, -9.51385498046875, -10.42938232421875], "timestamp": 1512053312366, "sensorLocation": "trailer"},
-{"sensorType": "LIGHT", "valueLength": 1, "values": 0.8, "timestamp": 1512053312635, "sensorLocation": "trailer"},
-]
+{"sensorType": "LIGHT", "valueLength": 1, "values": 0.8, "timestamp": 1512053312635, "sensorLocation": "trailer"}]

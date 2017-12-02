@@ -1,2 +1,6 @@
 # truck-assistant
-TechCrunch Truck Assistant
+
+TechCrunch Truck Assistant for the Hackathon
+
+
+
