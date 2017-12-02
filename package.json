@@ -1,0 +1,23 @@
+{
+  "name": "truck-assistant",
+  "version": "0.5.0",
+  "description": "An assistant for truck drivers",
+  "main": "null",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geisten/geisten.github.io.git"
+  },
+  "keywords": [
+    "AI",
+    "blockchain"
+  ],
+  "author": "Geisten, Kreijstal, Mario Behlen, Pepe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geisten/geisten.github.io/issues"
+  },
+  "homepage": "https://github.com/geisten/geisten.github.io#readme"
+}
