@@ -1,0 +1,194 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	<script>
+		function setSensorToTime(sensor, as) {
+			if (!as[sensor.timestamp]) {
+				as[sensor.timestamp] = {
+					barometer1: "null",
+					barometer2: "null",
+					insideTemperature: "null",
+					ambientTemperature: "null",
+					light: "null",
+					gyroscope1: "null",
+					gyroscope2: "null",
+					gyroscope3: "null",
+					accelerometer1: "null",
+					accelerometer2: "null",
+					accelerometer3: "null"
+				}
+			};
+			switch (sensor.sensorType) {
+				case "BAROMETER":
+					as[sensor.timestamp]["barometer1"] = sensor.values[0]
+					as[sensor.timestamp]["barometer2"] = sensor.values[1]
+					break;
+				case "TEMPERATURE":
+					as[sensor.timestamp]["insideTemperature"] = sensor.values[0]
+					as[sensor.timestamp]["ambientTemperature"] = sensor.values[1]
+					break;
+				case "LIGHT":
+					as[sensor.timestamp]["light"] = sensor.values
+					break;
+				case "MAGNETOMETER":
+					as[sensor.timestamp]["magnetmoeter1"] = sensor.values[0]
+					as[sensor.timestamp]["magnetmoeter2"] = sensor.values[1]
+					break;
+				case "GYROSCOPE":
+					as[sensor.timestamp]["gyroscope1"] = sensor.values[0]
+					as[sensor.timestamp]["gyroscope2"] = sensor.values[1]
+					as[sensor.timestamp]["gyroscope3"] = sensor.values[2]
+					break;
+				case "ACCELEROMETER":
+					as[sensor.timestamp]["accelerometer1"] = sensor.values[0]
+					as[sensor.timestamp]["accelerometer2"] = sensor.values[1]
+					as[sensor.timestamp]["accelerometer3"] = sensor.values[2]
+					break;
+			}
+		}
+
+		function convertDataToTime(trailer) {
+			var as = {};
+			trailer.forEach(a => setSensorToTime(a, as));
+			return as;
+		}
+
+		window.onload = function() {
+			fetch("trailerA.fix.json").then(response => response.json()).then(function(json) {
+				var as = convertDataToTime(json);
+
+				var keys = Object.keys(as);
+				keys = keys.sort((a, b) => (+a) - (+b));
+				var lastValue = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+				var values = Object.keys(as[keys[0]])
+
+				function filterLast(lastValue, now) {
+					for (var i = 0; i < values.length; i++) {
+						if (now[values[i]] == "null") {
+							now[values[i]] = lastValue[i]
+						}
+						else {
+							lastValue[i] = now[values[i]];
+						}
+					}
+				}
+				var tempChart = new CanvasJS.Chart("temperature", {
+				animationEnabled: false,
+
+				title: {
+					text: "Temperature"
+				},
+				axisX: {
+					interval: 1
+				}
+				,
+					axisY2:{
+						interlacedColor: "rgba(1,77,101,.2)",
+						gridColor: "rgba(1,77,101,.1)",
+						title: "Celcius degrees"
+					}
+				,
+				data: [{
+					type: "column",
+					name: "temperature",
+					axisYType: "secondary",
+					color: "#014D65",
+				/*	dataPoints: [
+						{ y: 3, label: "Sweden" },
+						{ y: 7, label: "Taiwan" }
+					]*/
+				}]
+			});
+			 var gyroscopeChart = new CanvasJS.Chart("gyroscope", {
+				animationEnabled: false,
+
+				title: {
+					text: "Gyroscope"
+				},
+				axisX: {
+					interval: 1
+				}
+				,
+				/*	axisY2:{
+						interlacedColor: "rgba(1,77,101,.2)",
+						gridColor: "rgba(1,77,101,.1)",
+						title: "Celcius degrees"
+					}
+				,*/
+				data: [{
+					type: "line",
+					name: "temperature",
+					axisYType: "secondary",
+					color: "#f10D95",
+				/*	dataPoints: [
+						{ y: 3, label: "Sweden" },
+						{ y: 7, label: "Taiwan" }
+					]*/
+				}]
+			});
+			 var lightChart = new CanvasJS.Chart("light", {
+				animationEnabled: false,
+
+				title: {
+					text: "Gyroscope"
+				},
+				axisX: {
+					interval: 1
+				}
+				,
+				/*	axisY2:{
+						interlacedColor: "rgba(1,77,101,.2)",
+						gridColor: "rgba(1,77,101,.1)",
+						title: "Celcius degrees"
+					}
+				,*/
+				data: [{
+					type: "line",
+					name: "temperature",
+					axisYType: "secondary",
+					color: "#f10D95",
+				/*	dataPoints: [
+						{ y: 3, label: "Sweden" },
+						{ y: 7, label: "Taiwan" }
+					]*/
+				}]
+			});
+			var time=0
+			function valchange(){
+			filterLast(lastValue,as[keys[time]]);
+			var clabel=(label=>({y:as[keys[time]][label],label:label}));
+				chartDraw(tempChart,["ambientTemperature","insideTemperature"].map(clabel));
+				chartDraw(gyroscopeChart,["gyroscope1","gyroscope2","gyroscope3"].map(clabel))
+
+				if(!keys[++time]){return}
+				setTimeout(valchange,(keys[time]-keys[time-1]))
+			}
+			valchange();
+			})
+
+		}
+
+		function chartDraw(chart,data,time) {
+			//chart.options.data[0].title.text="Temperature "+time;
+			chart.options.data[0].dataPoints=data
+			//chart.options.data[0].dataPoints[0].label="ambientTemperature "+time
+			chart.render();
+
+
+		}
+	</script>
+	<style type="text/css">
+		.chart{float:left;}
+	</style>
+</head>
+
+<body>
+	<div class="chart" id="temperature" style="height: 300px; width: 25%;"></div>
+	<div class="chart" id="gyroscope" style="height: 300px; width: 25%;"></div>
+	<div class="chart" id="light" style="height: 300px; width: 25%;"></div>
+	<div class="chart" id="barometer" style="height: 300px; width: 25%;"></div>
+	<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+</body>
+
+</html>
